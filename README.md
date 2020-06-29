@@ -1,6 +1,7 @@
-﻿![alt text](https://harfordcountyhealth.com/wp-content/uploads/2020/01/home-banner.jpg "COVID-19 Banner")
-# IBM Hack Challenge
-###  In this project, we utilized web scraping techniques to collect data from multi-platforms, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis and topic modeling, and created Tableau dashboard to present the results. 
+![alt text](https://harfordcountyhealth.com/wp-content/uploads/2020/01/home-banner.jpg "COVID-19 Banner")
+# COVID-19_UCD_Challenge
+### Team LightYellowDress&amp;FluffyHair 
+This repository contains all code files and data we used in the University of California, Davis, MSBA program COVID-19 Challenge Competition. In this project, we utilized web scraping techniques to collect data from multi-platforms, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis and topic modeling, and created Tableau dashboard to present the results. 
 
 ## Motivation
 The Corona Virus endangers our physical health indeed, but alongside, social distancing also poses a threat to our emotional stability. Thus, it is crucial to understand public sentiments under COVID-19.
@@ -161,4 +162,11 @@ In this project, we analyzed the sentiments of COVID-19-related tweets in severa
 To fight the coronavirus not only needs the guidance from the government but also a positive attitude from the public. Our analysis provides a potential approach to reveal the public’s sentiment status and help institutions respond timely to it.
 
 ## Acknowledge
-We want to sincerely acknowledge the efforts of our mentor in this program.
+We want to sincerely acknowledge the efforts of the faculty and student executive assistants of UC Davis MSBA program for facilitating the COVID-19 Challenge. Also we are very grateful to the valuable suggestions from Prof. Ashwin Aravindakshan and Prof. Jörn Boehnke.
+
+
+
+
+
+
+
